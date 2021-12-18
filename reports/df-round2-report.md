@@ -215,3 +215,5 @@ The first function in `main` is to collect all structured information from all t
 ## Attachments
 1. [csv files generated](csv-files/)
 2. [Final results](DF-ranking-comparision.xlsx) and a comparison with old reults (before data recovery)
+
+*Please note that all on-chain data is downloaded from the Dora Factory Substrate Testnet[0] network, on which the QF pallet was deployed. The testnet might reboot for later pallet tests and infrastructure developments. The current network will live for at least 30 days after Dec 18, 2021.*
