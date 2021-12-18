@@ -210,7 +210,7 @@ if __name__ == '__main__':
 
 
 ```
-The first function in `main` is to collect all structured information from all testnet blocks and store them into separte csv files. The second one is to analyze the voting data and emulate the real quadratic funding logics on chain. Also, for accuracy, we added a flag here, if it passes the `skip` with False, you'll see ranking result just exact like before. Only when `skip` is True, the ranking is correct. Anyone can run this script, make sure python version >= 3.9
+The first function in `main` is to collect all structured information from all testnet blocks and store them into separte csv files. The second one is to analyze the voting data and emulate the real quadratic funding logics on chain. Also, for accuracy, we added a flag here, if it passes the `skip` with False, you'll see ranking result just exactly like before. Only when `skip` is True, the ranking is correct. Anyone can run this script, make sure python version >= 3.9
 
 ## Attachments
 1. [csv files generated](csv-files/)
